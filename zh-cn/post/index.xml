@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 我是王熠铭</title>
+    <link>https://github.com/wymlyy/blog.git/zh-cn/post/</link>
+    <description>Recent content in Posts on 我是王熠铭</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Jan 2021 19:25:18 +1100</lastBuildDate><atom:link href="https://github.com/wymlyy/blog.git/zh-cn/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 1</title>
+      <link>https://github.com/wymlyy/blog.git/zh-cn/post/day-1/</link>
+      <pubDate>Thu, 07 Jan 2021 19:25:18 +1100</pubDate>
+      
+      <guid>https://github.com/wymlyy/blog.git/zh-cn/post/day-1/</guid>
+      <description>Learning git command and building a personal blog using hugo.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://github.com/wymlyy/blog.git/zh-cn/post/introduction.cn/</link>
+      <pubDate>Thu, 07 Jan 2021 15:29:11 +1100</pubDate>
+      
+      <guid>https://github.com/wymlyy/blog.git/zh-cn/post/introduction.cn/</guid>
+      <description>Yiming Wang Mobile: 0452271021 Email: 380964885lyy@gmail.com
+Address: 110/8 Renver Rd, Clayton, VIC 3168
+LinkedIn: https://www.linkedin.com/in/yiming-wang-a52683176/ Summary of Skills
+•	Strong researching and writing capabilities
+•	Extensive knowledge of design and coding
+•	Strong learning capabilities and willingness to learn new knowledge and techniques
+•	Logical and analytic thinking to identify, analyse and solve problems
+•	Strong communication skills and customer centric thinking pattern
+•	Strong adaptability to multicultural working environments and ability to be the bridge of people from different culture background</description>
+    </item>
+    
+  </channel>
+</rss>
